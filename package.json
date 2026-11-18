@@ -1,0 +1,20 @@
+{
+  "name": "noir-detective",
+  "version": "1.0.0",
+  "description": "NoirDetective — Trung Tâm Điều Tra Hiện Trường, Pháp Y Số & Thẩm Vấn Phá Án Tương Tác (Port 4130)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test_server.js"
+  },
+  "keywords": [
+    "noir-detective",
+    "crime-scene-forensics",
+    "procedural-mystery",
+    "polygraph-interrogation",
+    "alibi-breaker"
+  ],
+  "author": "AI_App Ecosystem",
+  "license": "MIT"
+}
+
